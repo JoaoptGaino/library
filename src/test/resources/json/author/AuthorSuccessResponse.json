@@ -1,0 +1,25 @@
+{
+  "content": [{
+    "id": "id",
+    "name": "Chuck Palahniuk",
+    "books": null
+  },
+    {
+      "id": "id2",
+      "name": "Napoleon Hill",
+      "books": null
+    }
+  ],
+  "pageable": "INSTANCE",
+  "totalPages": 1,
+  "totalElements": 2,
+  "last": true,
+  "size": 0,
+  "number": 0,
+  "sort": {
+    "sorted": false,
+    "unsorted": true
+  },
+  "numberOfElements": 2,
+  "first": true
+}
